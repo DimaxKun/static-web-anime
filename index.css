@@ -1,0 +1,53 @@
+body {
+    overflow-x: hidden;
+    background: #1f1f1f;
+}
+
+#landing {
+    height: 63vh;
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url("./images/anime-banner.jpg") center no-repeat;
+    background-size: cover;
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-item img {
+    height: 100%;
+}
+
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+}
+
+.card img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.gravitas-one-regular {
+    font-family: "Gravitas One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.red-stroke{
+    -webkit-text-stroke: .7px red;
+}
+
+.black-stroke{
+    -webkit-text-stroke: .5px black;
+}
+
+.navbar .nav-link:hover {
+    color: rgb(255, 103, 103) !important;
+}
