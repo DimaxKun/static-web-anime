@@ -1,37 +1,64 @@
-# Anime Collection Shop
+<div align="center">
 
-A responsive anime merchandise storefront built with HTML, CSS, and Bootstrap 5.
+  <img src="images/anime-banner.png" alt="Anime Collection Shop Banner" width="100%" />
 
-![Anime Banner](images/anime-banner.png)
+  <br/>
+  <br/>
+
+  <img src="images/ali-icon.png" alt="Logo" width="60" />
+
+  # Anime Collection Shop
+
+  > A responsive anime merchandise storefront built with HTML, CSS, and Bootstrap 5.
+
+  <br/>
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+  <br/>
+
+</div>
 
 ---
 
-## Overview
+## 🗂️ Table of Contents
 
-Anime Collection Shop is a static front-end website showcasing exclusive anime merchandise including apparel, accessories, and collectibles. It features a clean dark theme, smooth animations, and a fully responsive layout across all screen sizes.
+- [Overview](#-overview)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Products](#-products)
+- [License](#-license)
 
-## Features
+---
 
-- Fixed navigation bar with smooth scroll links
-- Hero landing section with a full-cover banner
-- Auto-playing image carousel in the About section
-- Product cards with hover effects and direct purchase links
-- Fully responsive layout for mobile, tablet, and desktop
-- Google Fonts integration (Gravitas One)
-- Bootstrap 5 components and grid system
+## 📖 Overview
 
-## Tech Stack
+Anime Collection Shop is a static front-end website showcasing exclusive anime merchandise — apparel, accessories, and collectibles. It features a dark theme, smooth animations, and a fully responsive layout across all screen sizes.
 
-- HTML5
-- CSS3
-- [Bootstrap 5.3](https://getbootstrap.com/)
-- [Google Fonts](https://fonts.google.com/)
+---
 
-## Project Structure
+## ✨ Features
+
+| Feature | Description |
+|---|---|
+| 🧭 Navbar | Fixed top nav with smooth scroll links and mobile hamburger menu |
+| 🎬 Hero Section | Full-cover banner with a call-to-action button |
+| 🎠 Carousel | Auto-playing image carousel in the About section |
+| 🛍️ Product Cards | Hover effects, pricing, and direct purchase links |
+| 📱 Responsive | Optimized for mobile, tablet, and desktop |
+| 🎨 Custom Styling | Dark theme with red accents and Gravitas One font |
+
+---
+
+## 📁 Project Structure
 
 ```
 anime-collection-shop/
-├── images/
+├── 📁 images/
 │   ├── anime-banner.png
 │   ├── ali-icon.png
 │   ├── aizen-shirt.jpg
@@ -40,12 +67,14 @@ anime-collection-shop/
 │   ├── madara-mouse.jpg
 │   ├── meruem-mug.jpg
 │   └── yagami-jacket.jpg
-├── index.html
-├── index.css
-└── README.md
+├── 📄 index.html
+├── 🎨 index.css
+└── 📝 README.md
 ```
 
-## Getting Started
+---
+
+## 🚀 Getting Started
 
 No build tools or dependencies required. Just open `index.html` in your browser.
 
@@ -57,14 +86,27 @@ git clone https://github.com/your-username/anime-collection-shop.git
 open index.html
 ```
 
-## Screenshots
+---
 
-| Section | Preview |
+## 🛒 Products
+
+| Product | Price |
 |---|---|
-| Hero | Full-screen banner with CTA button |
-| About | Text + auto-rotating carousel |
-| Products | 6-card grid with pricing and links |
+| 🖱️ Madara Uchiha Mouse | $143.00 |
+| ☕ Meruem Mug | Out of stock |
+| 👕 Aizen Sosuke Shirt | $16.00 |
+| 🖱️ Johan Liebert Mousepad | $20.94 |
+| 📱 Griffith Phone Case | $21.99 |
+| 🧥 Light Yagami Jacket | $24.75 |
 
-## License
+---
+
+## 📄 License
 
 © 2026 Mohammad Ali Dimacaling. All rights reserved.
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ for anime fans everywhere</sub>
+</div>
